@@ -221,11 +221,7 @@ for Reading this section **please** fork  this kernel:
 
 [A Comprehensive ML Workflow with Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/blob/master/9-A%20Comprehensive%20Machine%20Learning%20Workflow%20with%20Python/A%20Comprehensive%20ML%20Workflow%20with%20Python.ipynb)
 
-##  10- Deep Learning
 
-for Reading this section **please** fork   this kernel:
-
-[A-Comprehensive-Deep-Learning-Workflow-with-Python](https://github.com/mjbahmani/10-steps-to-become-a-data-scientist/tree/master/10-A%20comprehensive%20Deep%20Learning%20WorkFlow%20With%20Python)
 
 ---------------------------------------------------------------------
 
@@ -253,11 +249,4 @@ If you use my code in your research, please cite this project.
 ```
 
  **Have Fun!**
- 
-> ###### 1. Follow us On :
 
-[GitHub](https://github.com/mjbahmani/)
- 
-[Kaggle](https://www.kaggle.com/mjbahmani)
-
-[linkedin](https://www.linkedin.com/company/irmatlab/)
